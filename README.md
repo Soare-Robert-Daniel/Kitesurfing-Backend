@@ -1,1 +1,1 @@
-# -Kitesurfing-Backend
+# Kitesurfing-Backend
