@@ -1,0 +1,677 @@
+POST http://localhost:8080/api/spots?country=Spain&windProbability=97
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf"
+}
+
+<> 2019-03-22T085459.200.json
+
+###
+
+POST http://localhost:8080/api/spots?country=Spain&windProbability=97
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf"
+}
+
+<> 2019-03-22T084931.200.json
+
+###
+
+POST http://localhost:8080/api/spots?country=Spain&windProbability=97
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf"
+}
+
+<> 2019-03-22T084531.200.json
+
+###
+
+POST http://localhost:8080/api/spots?country=Spain&windProbability=97
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-"
+}
+
+<> 2019-03-22T084523.200.json
+
+###
+
+POST http://localhost:8080/api/spots?country=Spain&windProbability=97
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-"
+}
+
+<> 2019-03-22T084407.200.json
+
+###
+
+POST http://localhost:8080/api/spots?country=Spain&windProbability=97
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f75"
+}
+
+<> 2019-03-22T084351.200.json
+
+###
+
+POST http://localhost:8080/api/spots/5
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-22T083929.200.json
+
+###
+
+POST http://localhost:8080/api/favorites/spots/add/100
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-22T083556.200.json
+
+###
+
+POST http://localhost:8080/api/spots/countries
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-22T083330.200.json
+
+###
+
+POST http://localhost:8080/api/spots?country=Spain&windProbability=97
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-22T083213.200.json
+
+###
+
+POST http://localhost:8080/api/signup
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "username" : "Roby",
+  "password" : "nu123"
+}
+
+###
+
+POST http://localhost:8080/api/spots
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T073529.200.json
+
+###
+
+POST http://localhost:8080/api/spots/countries
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T073524.200.json
+
+###
+
+POST http://localhost:8080/api/spots?windProbability=-1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T073520.200.json
+
+###
+
+POST http://localhost:8080/api/spots?country=234SD
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T073517.200.json
+
+###
+
+POST http://localhost:8080/api/signout
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "c27364f8-0758-413f-98bb-238f2fbebce7"
+}
+
+<> 2019-03-20T071441.200.json
+
+###
+
+POST http://localhost:8080/api/signup
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "username" : "Roby",
+  "password" : "nu123"
+}
+
+<> 2019-03-20T071303.200.json
+
+###
+
+POST http://localhost:8080/api/users/me/reset-password
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "password": "Ninonino",
+  "resetToken": {
+    "token": "647f7995-42b2-45f9-ad0b-29e12c27eba1"
+  }
+}
+
+<> 2019-03-20T071035.200.json
+
+###
+
+POST http://localhost:8080/api/users/me/reset-password
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "password": "Ninonino",
+  "resetToken": {
+    "token": "647f7995-42b2-45f9-ad0b-29e12c27eba1"
+  }
+}
+
+<> 2019-03-20T071003.200.json
+
+###
+
+POST http://localhost:8080/api/users/me/reset-password
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "password": "Ninoni no",
+  "resetToken": {
+    "token": "647f7995-42b2-45f9-ad0b-29e12c27eba1"
+  }
+}
+
+<> 2019-03-20T070957.200.json
+
+###
+
+POST http://localhost:8080/api/users/me/forgot-password
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "password": "Ninoni no",
+  "resetToken": {
+    "token": "647f7995-42b2-45f9-ad0b-29e12c27eba1"
+  }
+}
+
+<> 2019-03-20T070900.200.json
+
+###
+
+POST http://localhost:8080/api/users/me/forgot-password
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "username": "Roby"
+}
+
+<> 2019-03-20T070752.200.json
+
+###
+
+POST http://localhost:8080/api/favorites/spots/add/100
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T065000.200.json
+
+###
+
+POST http://localhost:8080/api/favorites/spots/add/100
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T064951.200.json
+
+###
+
+POST http://localhost:8080/api/favorites/spots/delete/5
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T064941.200.json
+
+###
+
+POST http://localhost:8080/api/favorites/spots/add/5
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T064930.200.json
+
+###
+
+POST http://localhost:8080/api/spots/favorites/add/5
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T064835.404.json
+
+###
+
+POST http://localhost:8080/api/spots/countries
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T064726.200.json
+
+###
+
+POST http://localhost:8080/api/spots/countries
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T061923.200.json
+
+###
+
+POST http://localhost:8080/api/spots?windProbability=-1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T061858.200.json
+
+###
+
+POST http://localhost:8080/api/spots?windProbability=101
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T061852.200.json
+
+###
+
+POST http://localhost:8080/api/spots?windProbability=97
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T061845.200.json
+
+###
+
+POST http://localhost:8080/api/spots?windProbability=30
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T061836.200.json
+
+###
+
+POST http://localhost:8080/api/spots?country=234SD
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T061827.200.json
+
+###
+
+POST http://localhost:8080/api/spots?windProbability=234SD
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T061820.200.json
+
+###
+
+POST http://localhost:8080/api/spots
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T061816.200.json
+
+###
+
+POST http://localhost:8080/api/spots?country=234SD
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T061554.200.json
+
+###
+
+POST http://localhost:8080/api/spots?country=234SD
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T061307.200.json
+
+###
+
+POST http://localhost:8080/api/spots?country=Spain
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T061256.200.json
+
+###
+
+POST http://localhost:8080/api/spots
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "token": "6f8ec628-8772-4fd8-8dcf-91b9b134f758"
+}
+
+<> 2019-03-20T061243.200.json
+
+###
+
+POST http://localhost:8080/api/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "username" : "Ratata",
+  "password" : "salam"
+}
+
+<> 2019-03-20T061214.200.json
+
+###
+
+POST http://localhost:8080/api/signup
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "username" : "Ratata",
+  "password" : "salam"
+}
+
+<> 2019-03-20T061204.200.json
+
+###
+
+POST http://localhost:8080/api/users/me/reset-password
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "username" : "Ratata",
+  "password" : "salam"
+}
+
+<> 2019-03-20T061140.200.json
+
+###
+
+POST http://localhost:8080/api/users/me/reset-password
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "username" : "Ratata",
+  "password" : "salam"
+}
+
+<> 2019-03-20T060615.200.json
+
+###
+
+POST http://localhost:8080/api/users/me/reset-password
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "username" : "Ratata",
+  "password" : "salam"
+}
+
+<> 2019-03-20T060543.200.json
+
+###
+
+POST http://localhost:8080/api/users/me/reset-password
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "username" : "Ratata",
+  "password" : "salam"
+}
+
+<> 2019-03-20T060231.200.json
+
+###
+
+POST http://localhost:8080/api/users/me/reset-password
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "password" : "salam",
+  "resetToken" : {
+      "token" :  "96fe9740-2f55-4ae2-a48c-8251f57b4ab4"
+  }
+}
+
+<> 2019-03-19T065053.200.json
+
+###
+
+POST http://localhost:8080/api/users/me/reset-password
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "password" : "salam",
+  "resetToken" : {
+      "token" :  "96fe9740-2f55-4ae2-a48c-8251f57b4ab4"
+  }
+}
+
+<> 2019-03-19T062715.200.json
+
+###
+
+POST http://localhost:8080/api/users/me/reset-password
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "password" : "salam",
+  "resetToken" : {
+      "token" :  "96fe9740-2f55-4ae2-a48c-8251f57b4ab4"
+  }
+}
+
+<> 2019-03-19T062556.200.json
+
+###
+
+POST http://localhost:8080/api/users/me/forgot-password
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "username" : "Dudu"
+}
+
+<> 2019-03-18T081107.200.json
+
+###
+

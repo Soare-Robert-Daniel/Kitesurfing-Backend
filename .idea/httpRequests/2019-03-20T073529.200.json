@@ -1,0 +1,371 @@
+{
+  "response": [
+    {
+      "id": 1,
+      "name": "Futuna",
+      "country": "Cook Islands"
+    },
+    {
+      "id": 2,
+      "name": "Shelley Point",
+      "country": "South Africa"
+    },
+    {
+      "id": 3,
+      "name": "Anakao",
+      "country": "South Africa"
+    },
+    {
+      "id": 4,
+      "name": "Cubagua",
+      "country": "Venezuela"
+    },
+    {
+      "id": 5,
+      "name": "Fishermen's Bay",
+      "country": "Oman"
+    },
+    {
+      "id": 6,
+      "name": "Pocitas Beach",
+      "country": "Ecuador"
+    },
+    {
+      "id": 7,
+      "name": "Zapara",
+      "country": "Venezuela"
+    },
+    {
+      "id": 8,
+      "name": "2nd Bay",
+      "country": "Morocco"
+    },
+    {
+      "id": 9,
+      "name": "Adicora",
+      "country": "Venezuela"
+    },
+    {
+      "id": 10,
+      "name": "Bahia de San Pedro",
+      "country": "Venezuela"
+    },
+    {
+      "id": 11,
+      "name": "Bunker Beach",
+      "country": "Australia"
+    },
+    {
+      "id": 12,
+      "name": "Dolphin beach, Guns",
+      "country": "South Africa"
+    },
+    {
+      "id": 13,
+      "name": "Essaouira",
+      "country": "Morocco"
+    },
+    {
+      "id": 14,
+      "name": "Isla Holbox",
+      "country": "Mexico"
+    },
+    {
+      "id": 15,
+      "name": "Nunura",
+      "country": "Ecuador"
+    },
+    {
+      "id": 16,
+      "name": "Diego Suarez - Baie d'Andovokonko",
+      "country": "Tanzania"
+    },
+    {
+      "id": 17,
+      "name": "Langebaan",
+      "country": "South Africa"
+    },
+    {
+      "id": 18,
+      "name": "Observatory Beach",
+      "country": "Australia"
+    },
+    {
+      "id": 19,
+      "name": "Phan Thiet",
+      "country": "Viet Nam"
+    },
+    {
+      "id": 20,
+      "name": "Pimentel",
+      "country": "Peru"
+    },
+    {
+      "id": 21,
+      "name": "Sidi Abdellah",
+      "country": "Morocco"
+    },
+    {
+      "id": 22,
+      "name": "Alibaba",
+      "country": "Senegal"
+    },
+    {
+      "id": 23,
+      "name": "Bandy Creek",
+      "country": "Australia"
+    },
+    {
+      "id": 24,
+      "name": "Barra Grande",
+      "country": "Brazil"
+    },
+    {
+      "id": 25,
+      "name": "Bequia",
+      "country": "Guadeloupe"
+    },
+    {
+      "id": 26,
+      "name": "Punta Abreojos",
+      "country": "Mexico"
+    },
+    {
+      "id": 27,
+      "name": "Farwah",
+      "country": "Libya"
+    },
+    {
+      "id": 28,
+      "name": "Jeddah, South Corniche",
+      "country": "Saudi Arabia"
+    },
+    {
+      "id": 29,
+      "name": "Lagoon",
+      "country": "Viet Nam"
+    },
+    {
+      "id": 30,
+      "name": "Puerto Caballos",
+      "country": "Peru"
+    },
+    {
+      "id": 31,
+      "name": "Fourth Mile Beach",
+      "country": "Australia"
+    },
+    {
+      "id": 32,
+      "name": "Kaliantan Lombok",
+      "country": "Indonesia"
+    },
+    {
+      "id": 33,
+      "name": "Limassol, Anemometer",
+      "country": "United Kingdom"
+    },
+    {
+      "id": 34,
+      "name": "Los Roques",
+      "country": "Venezuela"
+    },
+    {
+      "id": 35,
+      "name": "Namena Island",
+      "country": "New Zealand"
+    },
+    {
+      "id": 36,
+      "name": "Zanzibar / Ras Nungwi",
+      "country": "Tanzania"
+    },
+    {
+      "id": 37,
+      "name": "Al Mirfa",
+      "country": "United Arab Emirates"
+    },
+    {
+      "id": 38,
+      "name": "Dakar",
+      "country": "Senegal"
+    },
+    {
+      "id": 39,
+      "name": "Exmouth (Dunes)",
+      "country": "Australia"
+    },
+    {
+      "id": 40,
+      "name": "Geraldton",
+      "country": "Australia"
+    },
+    {
+      "id": 41,
+      "name": "Point Moore",
+      "country": "Australia"
+    },
+    {
+      "id": 42,
+      "name": "Walvis Bay",
+      "country": "South Africa"
+    },
+    {
+      "id": 43,
+      "name": "Cabo de La Vela",
+      "country": "Venezuela"
+    },
+    {
+      "id": 44,
+      "name": "DOSC, Dubai Offshore Sailing Club",
+      "country": "United Arab Emirates"
+    },
+    {
+      "id": 45,
+      "name": "HERZLIA SEA SCOUTS",
+      "country": "Israel"
+    },
+    {
+      "id": 46,
+      "name": "Sal / Santa Maria",
+      "country": "Senegal"
+    },
+    {
+      "id": 47,
+      "name": "Shark Bay",
+      "country": "South Africa"
+    },
+    {
+      "id": 48,
+      "name": "Sorobon",
+      "country": "Venezuela"
+    },
+    {
+      "id": 49,
+      "name": "Adam's Bridge",
+      "country": "Sri Lanka"
+    },
+    {
+      "id": 50,
+      "name": "Boa Vista",
+      "country": "Senegal"
+    },
+    {
+      "id": 51,
+      "name": "Gazebo Point",
+      "country": "Oman"
+    },
+    {
+      "id": 52,
+      "name": "Kalpitiya",
+      "country": "Sri Lanka"
+    },
+    {
+      "id": 53,
+      "name": "Kappalady",
+      "country": "Sri Lanka"
+    },
+    {
+      "id": 54,
+      "name": "North Obhur, Danah Jed",
+      "country": "Saudi Arabia"
+    },
+    {
+      "id": 55,
+      "name": "Oualidia-Lagune",
+      "country": "Morocco"
+    },
+    {
+      "id": 56,
+      "name": "Lavanono",
+      "country": "South Africa"
+    },
+    {
+      "id": 57,
+      "name": "Androka",
+      "country": "South Africa"
+    },
+    {
+      "id": 58,
+      "name": "Dakhla",
+      "country": "Spain"
+    },
+    {
+      "id": 59,
+      "name": "Heliophora Lagoon",
+      "country": "Spain"
+    },
+    {
+      "id": 60,
+      "name": "Golden Beach",
+      "country": "Egypt"
+    },
+    {
+      "id": 61,
+      "name": "Tamania (Cap 8)",
+      "country": "Spain"
+    },
+    {
+      "id": 62,
+      "name": "Jericoacoara",
+      "country": "Brazil"
+    },
+    {
+      "id": 63,
+      "name": "Laayoune",
+      "country": "Spain"
+    },
+    {
+      "id": 64,
+      "name": "Marsa El Brega",
+      "country": "Libya"
+    },
+    {
+      "id": 65,
+      "name": "27-Waam",
+      "country": "India"
+    },
+    {
+      "id": 66,
+      "name": "Barra Nova",
+      "country": "Brazil"
+    },
+    {
+      "id": 67,
+      "name": "Cumbuco",
+      "country": "Brazil"
+    },
+    {
+      "id": 68,
+      "name": "Galinhos",
+      "country": "Brazil"
+    },
+    {
+      "id": 69,
+      "name": "Guajiru",
+      "country": "Brazil"
+    },
+    {
+      "id": 70,
+      "name": "Ilha do Guajiru",
+      "country": "Brazil"
+    },
+    {
+      "id": 71,
+      "name": "Paracas, Kangaroo Kite Shack",
+      "country": "Peru"
+    },
+    {
+      "id": 72,
+      "name": "Socotra Island - Qualansiyah",
+      "country": "Oman"
+    },
+    {
+      "id": 73,
+      "name": "Westpunt (Westpoint)",
+      "country": "Venezuela"
+    }
+  ],
+  "status": "success",
+  "message": ""
+}
