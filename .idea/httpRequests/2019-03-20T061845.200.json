@@ -1,0 +1,21 @@
+{
+  "response": [
+    {
+      "id": 57,
+      "name": "Androka",
+      "country": "South Africa"
+    },
+    {
+      "id": 58,
+      "name": "Dakhla",
+      "country": "Spain"
+    },
+    {
+      "id": 59,
+      "name": "Heliophora Lagoon",
+      "country": "Spain"
+    }
+  ],
+  "status": "success",
+  "message": ""
+}

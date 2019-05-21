@@ -1,0 +1,10 @@
+{
+  "response": {
+    "longitude": 59.67,
+    "latitude": 22.03,
+    "windProbability": 87,
+    "whenToGo": "AUGUST"
+  },
+  "status": "success",
+  "message": ""
+}

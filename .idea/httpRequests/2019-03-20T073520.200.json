@@ -1,0 +1,5 @@
+{
+  "response": null,
+  "status": "failed",
+  "message": "windProbability must be an integer with value from 0 to 100"
+}

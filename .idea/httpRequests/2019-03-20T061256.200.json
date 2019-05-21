@@ -1,0 +1,26 @@
+{
+  "response": [
+    {
+      "id": 58,
+      "name": "Dakhla",
+      "country": "Spain"
+    },
+    {
+      "id": 59,
+      "name": "Heliophora Lagoon",
+      "country": "Spain"
+    },
+    {
+      "id": 61,
+      "name": "Tamania (Cap 8)",
+      "country": "Spain"
+    },
+    {
+      "id": 63,
+      "name": "Laayoune",
+      "country": "Spain"
+    }
+  ],
+  "status": "success",
+  "message": ""
+}
